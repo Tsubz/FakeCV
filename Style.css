@@ -3,6 +3,16 @@
     border-right:1px solid #f2f2f2;
 }
 
+.vr-bold-right {
+
+    border-right:2px solid #f2f2f2;
+}
+
+.vr-bold-left {
+
+    border-left:2px solid #f2f2f2;
+}
+
 .size-18 {
     font-size: 18px;
 }
