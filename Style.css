@@ -16,3 +16,8 @@
 .size-18 {
     font-size: 18px;
 }
+
+.ClickMe {
+  color: red;
+  cursor: pointer;
+}
